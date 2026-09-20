@@ -5,7 +5,7 @@ An end-to-end Power BI analytics project evaluating net sales performance, store
 ---
 
 ## 🖼️ Dashboard Preview
-![Retail Sales Overview](Screenshot 2026-09-20 205535.png)
+![Retail Sales Overview](Screenshot%202026-09-20%20205535.png)
 
 ---
 
