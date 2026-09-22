@@ -1,4 +1,4 @@
-# 📊 Men's Retail Sales & Inventory Dashboard
+# 📊 Retail Sales & Inventory Dashboard
 
 An end-to-end Power BI analytics project evaluating net sales performance, store branch trends, and inventory distribution to support inventory replenishment and stock planning.
 
